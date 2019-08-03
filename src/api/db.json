@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": 12353325,
+      "firstName": "Ewell",
+      "lastName": "Davis",
+      "image": "http://lorempixel.com/640/480/nature",
+      "email": "Eldridge10@yahoo.com"
+    },
+    {
+      "id": 4129529,
+      "firstName": "Waino",
+      "lastName": "Towne",
+      "image": "http://lorempixel.com/640/480/nature",
+      "email": "Daron.Howell70@gmail.com"
+    },
+    {
+      "id": 87975998,
+      "firstName": "Keeley",
+      "lastName": "Heaney",
+      "image": "http://lorempixel.com/640/480/nature",
+      "email": "Laury.Deckow30@gmail.com"
+    }
+  ]
+}

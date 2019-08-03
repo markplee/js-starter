@@ -7,10 +7,10 @@ describe("Our first test", () => {
 });
 
 describe("index.html", () => {
-  it("it should say hello", done => {
+  it("it should have h1 that says Users", done => {
     return JSDOM.fromFile("./src/index.html").then(dom => {
       const h1 = dom.window.document.getElementsByTagName("h1")[0];
-      expect(h1.innerHTML).toBe("Hello World!");
+      expect(h1.innerHTML).toBe("Users");
       done();
     });
   });
